@@ -26,7 +26,8 @@ php_roadmap/
 ├── README.md               このファイル
 ├── 01_introduction/        Introduction to PHP、Installing PHP
 ├── 02_basic_php_syntax/    Basic PHP Syntax
-└── 03_variables_and_types/ 変数、データ型、キャスト、定数、null の演算子
+├── 03_variables_and_types/ 変数、データ型、キャスト、定数、null の演算子
+└── 04_control_structures/  if、switch、match、ループ
 ```
 
 各フォルダの中身：
@@ -56,7 +57,7 @@ roadmap.sh/php の分野の一覧。トピックの分け方と順番は、roadm
 - [x] **環境構築**：Installing PHP
 - [x] **基本文法**：Basic PHP Syntax（`echo` / `print` / `print_r` / `var_dump`）
 - [x] **変数と型**：Variables and Scope、Data Types、Casting Data Types、Constants、Null Coalescing Operator、Null Safe Operator
-- [ ] **制御構文**：if/else、switch、match、Loops
+- [x] **制御構文**：if/else、switch、match、Loops
 - [ ] **配列**：Indexed / Associative / Multi-dimensional Arrays
 - [ ] **関数**：Function Declaration、Parameters / Return Values、Default / Optional Params、Named Arguments、Anonymous Functions、Arrow Functions、Callback Functions、Variadic Functions、Recursion
 - [ ] **ファイル**：include / include_once / require / require_once、Reading / Writing Files、File Permissions、CSV / JSON / XML Processing
